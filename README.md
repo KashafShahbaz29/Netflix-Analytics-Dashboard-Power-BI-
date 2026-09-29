@@ -42,7 +42,7 @@ Title-level Netflix catalog data (movies and shows) with release year, content t
 ## Files
 
 - `Netflix_Analytics.pbix` — the Power BI report file
-- `screenshots/` — dashboard screenshots used in this README and in the portfolio
+- `screenshots/` — dashboard screenshots 
 
 ## How to use
 
